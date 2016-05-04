@@ -1,0 +1,28 @@
+name: 'Alicissimo Out & About'
+favicon: null
+layout_spectrum: 0.6387478725519031
+typography_spectrum: 0.5618909371551126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.04609464528039098
+  lightness: 0.004811604507267475
+  saturation: 0.6742207678034902
+  rhythmicContrast: 0.00031010573729872704
+purpose: []
